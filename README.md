@@ -10,12 +10,15 @@
 
 <ul>
    <li>
+       I am a Ph.D. student in the Electrical and Computer Engineering Department at Concordia University, where I have been studying since September 2022.
+   </li>
+   <li>
        I received my MSc in Computer Engineering with a focus on Artificial Intelligence.
    </li>
    <li>
        I earned my BSc in Computer Engineering, specializing in Hardware.
    </li>
-   <li>
-       Currently, I am diving deep into the fascinating world of Neuroscience and NeuroAI, driven by inspiration and opportunities provided by the amazing organizers of the Brain Hack School.
-   </li>
 </ul>
+<p>
+   Currently, I am diving deep into the fascinating world of Neuroscience, driven by inspiration and opportunities provided by the amazing organizers of the Brain Hack School.
+</p>
