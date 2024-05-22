@@ -10,10 +10,10 @@
 
 <ul>
    <li>
-       I received my MSc in Computer Engineering with a focus on Artificial Intelligence.
+       I received my M.Sc. in Computer Engineering with a focus on Artificial Intelligence.
    </li>
    <li>
-       I earned my BSc in Computer Engineering, specializing in Hardware.
+       I earned my B.Sc. in Computer Engineering, specializing in Hardware.
    </li>
    <li>
        Currently, I am diving deep into the fascinating world of Neuroscience and NeuroAI, driven by inspiration and opportunities provided by the amazing organizers of the Brain Hack School.
