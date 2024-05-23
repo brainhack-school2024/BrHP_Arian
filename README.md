@@ -6,8 +6,8 @@
    <sub><b>My Avatar</b></sub>
 </a>
 
-<p>Hi! I am Arian. I am passionate about the intersection of Neuro and Computer Science. Here is a bit about my background and interests:</p>
-
+<p>Hi! I am Arian. I am passionate about the intersection of Neuro and Computer Science.My interests normally revolves around Neuro AI, Neuroimaging. Specifically I want to explore machine/ deep learning algorithms on different type of data like FMRI and EEG. Currently, I am discovering different direction like disease classification, and brain graph structure learning. </p>
+ Here is a bit about my background:
 <ul>
    <li>
        I am a Ph.D. student in the Electrical and Computer Engineering Department at Concordia University, where I have been studying since September 2022.
@@ -20,5 +20,5 @@
    </li>
 </ul>
 <p>
-   Currently, I am diving deep into the fascinating world of Neuroscience, driven by inspiration and opportunities provided by the amazing organizers of the Brain Hack School.
+I would like to express my gratitude for the inspiration and opportunities provided by the incredible organizers of the Brain Hack School.
 </p>
