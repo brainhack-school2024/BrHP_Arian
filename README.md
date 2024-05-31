@@ -42,8 +42,7 @@ I would like to express my gratitude for the inspiration and opportunities provi
 
 
 
-## Prior Works and Problem Definition
-Adding image + two papers. 
+## Prior Works and Problem Definition 
 
 ![Process](./brain2.jpg)
 
