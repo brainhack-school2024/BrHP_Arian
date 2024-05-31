@@ -45,7 +45,7 @@ I would like to express my gratitude for the inspiration and opportunities provi
 ## Prior Works and Problem Definition
 Adding image + two papers. 
 
-![imagetest.png](./brain2.jpg)
+![Process](./brain2.jpg)
 
 
 ## Datasets and tools
@@ -58,7 +58,9 @@ I would like to learn the following skills including:
 
 ### Dataset
 - `IUGM-preprocessed data`
-
+- Two Examples: 
+![Example 1](./Friends1.png)
+![Example 2](./Friends2.png)
 ### Methods
 - Graph Signal Processing
 - Graph Neural Networks
