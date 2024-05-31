@@ -59,6 +59,11 @@ I would like to learn the following skills including:
 ### Dataset
 - `IUGM-preprocessed data`
 
+### Methods
+- Graph Signal Processing
+- Graph Neural Networks
+- ChebyNet
+
 ## Deliverables of the Project
 The deliverables of this project is:<br />
 * Notebooks for community to use
