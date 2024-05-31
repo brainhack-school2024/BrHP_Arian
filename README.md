@@ -59,6 +59,7 @@ I would like to learn the following skills including:
 ### Dataset
 - `IUGM-preprocessed data`
 - Two Examples: 
+
 ![Example 1](./Friends1.png)
 ![Example 2](./Friends2.png)
 ### Methods
