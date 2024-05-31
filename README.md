@@ -64,7 +64,7 @@ I would like to learn the following skills including:
 ### Methods
 - Graph Signal Processing
 - Graph Neural Networks
-- ChebyNet
+- ChebNet
 
 ## Deliverables of the Project
 The deliverables of this project is:<br />
