@@ -1,4 +1,4 @@
-# BrHP_Arian
+<!-- # BrHP_Arian
 
 <a href="https://github.com/aarian">
    <img src="https://github.com/Aarian.png" width="100px;" alt="Arian's avatar"/>
@@ -21,7 +21,7 @@
 </ul>
 <p>
 I would like to express my gratitude for the inspiration and opportunities provided by the incredible organizers of the Brain Hack School.
-</p>
+</p> -->
 
 
 
@@ -55,24 +55,28 @@ I would like to learn the following skills including:
 - `torch.geometric` 
 - `Docker` (just playing with it to see how it works on Colab)
 
-### Dataset
+## Dataset
 - `IUGM-preprocessed data`
 - Two Examples: 
 
 ![Example 1](./Friends1.png)
+
+## Dataset2
 ![Example 2](./Friends2.png)
-### Methods
+
+
+## Methods
 - Graph Signal Processing
 - Graph Neural Networks
 - ChebNet
 
 ## Deliverables of the Project
-The deliverables of this project is:<br />
-* Notebooks for community to use
-* Github repository
-* Training materials
-* Data <br />
 
+The deliverables of this project is:
+- Notebooks for community to use
+- Github repository
+- Training materials
+- Data
 
 
 
